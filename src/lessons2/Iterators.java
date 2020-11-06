@@ -35,10 +35,6 @@ public class Iterators {
 		
 		for(String s: names1) {
 			System.out.println(s);
-		}
-	
-		
-		
+		}	
 	}
-
 }
